@@ -20,7 +20,7 @@ This is a **Streamlit-based web application** that allows users to generate secu
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/umarprogrammer19/Password-Strength-Meter.git
+   git clone https://github.com/Syeda-Rubab/Password-Checker.git
    cd password-tool
    ```
 2. **Create a virtual environment (optional but recommended):**
