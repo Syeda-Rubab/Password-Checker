@@ -58,8 +58,6 @@ To install dependencies, run:
 pip install -r requirements.txt
 ```
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 Developed by **Syeda Rubab**. Feel free to contribute or report issues!
